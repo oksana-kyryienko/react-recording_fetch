@@ -1,5 +1,6 @@
 import React from 'react';
 import { User } from '../types/User';
+import classNames from 'classnames';
 
 type Props = {
   users: User[];
@@ -39,7 +40,9 @@ export const UsersList: React.FC<Props> = ({
             ) : (
               <button
                 onClick={() => onSelect(user)}
-                className="icon button is-success is-inverted"
+                className={classNames('icon button is-success is-inverted', {
+                  'is-crossed-out': user.id === selectedUserId,
+                })}
               >
                 <i className="far fa-eye" />
               </button>
