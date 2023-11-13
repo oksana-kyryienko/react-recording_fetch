@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-recording_fetch/static/css/main.d5b4e381.css",
+    "main.js": "/react-recording_fetch/static/js/main.a554ac12.js",
+    "static/media/fa-solid-900.ttf": "/react-recording_fetch/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/react-recording_fetch/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/react-recording_fetch/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/react-recording_fetch/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/react-recording_fetch/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/react-recording_fetch/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/react-recording_fetch/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-recording_fetch/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/react-recording_fetch/index.html",
+    "main.d5b4e381.css.map": "/react-recording_fetch/static/css/main.d5b4e381.css.map",
+    "main.a554ac12.js.map": "/react-recording_fetch/static/js/main.a554ac12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5b4e381.css",
+    "static/js/main.a554ac12.js"
+  ]
+}
